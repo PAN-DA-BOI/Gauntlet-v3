@@ -25,7 +25,7 @@ Version three of my gauntlet series, a compromise between me and my bf, so I don
 sudo raspi-config
 ```
 * use the arrow keys in the menu and enter to select the following
-   * go to Interfacing Options
+   * Interfacing Options
    * SPI
    * Select "Yes" to enable SPI
 * run "software/setup.sh" using the commands below
