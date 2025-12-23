@@ -8,4 +8,4 @@ Version three of my gauntlet series, a compromise between me and my bf so I don'
 - Meshtastic T-Beam
 - Waveshare 240x240, General 1.3inch LCD display
 - 40mm fan
-- general hardware (screws, nuts, and washers)
+- general hardware (screws, nuts, washers, and heatsinks)
