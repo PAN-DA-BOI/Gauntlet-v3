@@ -24,8 +24,10 @@ Version three of my gauntlet series, a compromise between me and my bf, so I don
 ```
 sudo raspi-config
 ```
+   - go to Interfacing Options
+   - SPI
+   - Select "Yes" to enable SPI
 - run "software/setup.sh" using the commands below
-
 ```
 git clone https://github.com/PAN-DA-BOI/Gauntlet-v3.git
 chmod +x ./software/setup.sh
