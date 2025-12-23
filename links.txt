@@ -1,5 +1,13 @@
-https://www.waveshare.com/wiki/1.3inch_LCD_Module#:~:text=Connect%20to%20Raspberry%20Pi
+Pi:
+https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/
+https://libre.computer/products/aml-s905x-cc/
 
-https://www.tinkercad.com/things/ffUa8IlDIRD-v3/edit?returnTo=%2Fdashboard%2Fdesigns%2F3d
+Display:
+https://www.waveshare.com/wiki/2inch_LCD_Module
+https://www.waveshare.com/2inch-lcd-module.htm#:~:text=Connecting%20With%20Raspberry%20Pi
 
+T-Beam:
 https://lilygo.cc/products/t-beam-meshtastic?variant=51708927738037
+
+3D files:
+https://www.tinkercad.com/things/ffUa8IlDIRD-v3/edit?returnTo=%2Fdashboard%2Fdesigns%2F3d
