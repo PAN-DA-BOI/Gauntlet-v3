@@ -1,6 +1,6 @@
 # Gauntlet-v3
 
-Version three of my gauntlet series, a compromise between me and my bf so I don't remove my left arm  
+Version three of my gauntlet series, a compromise between me and my bf, so I don't remove my left arm  
 
 # BOM
 
@@ -8,4 +8,22 @@ Version three of my gauntlet series, a compromise between me and my bf so I don'
 - Meshtastic T-Beam
 - Waveshare 240x240, General 1.3inch LCD display
 - 40mm fan
+- 2X 18650 batteries
 - general hardware (screws, nuts, washers, and heatsinks)
+
+# instructions
+
+- print out "hardware/gauntlet.stl"
+- print out "hardware/mesh-case.stl"
+- print out "hardware/pi-case.stl"
+- put the pi in its place
+- wire the screen
+- add the T-beam
+- add the batteries
+- run "software/setup.sh" using the commands below
+
+```
+git clone https://github.com/PAN-DA-BOI/Gauntlet-v3.git
+chmod +x ./software/setup.sh
+./software/setup.sh
+```
