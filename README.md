@@ -20,6 +20,10 @@ Version three of my gauntlet series, a compromise between me and my bf, so I don
 - wire the screen
 - add the T-beam
 - add the batteries
+- enable SPI on the pi using the command below
+```
+sudo raspi-config
+```
 - run "software/setup.sh" using the commands below
 
 ```
