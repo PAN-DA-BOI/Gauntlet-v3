@@ -71,7 +71,7 @@ try:
     disp.ShowImage(image1)
     time.sleep(3)
     logging.info("show image")
-    image = Image.open('../pic/LCD_2inch4_1.jpg')	
+    image = Image.open('/img/LCD_2inch.jpg')	
     image = image.rotate(180)
     disp.ShowImage(image)
     time.sleep(3)
