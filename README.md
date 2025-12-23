@@ -11,9 +11,6 @@ Version three of my gauntlet series, a compromise between me and my bf, so I don
 * 2X 18650 batteries
 * general hardware (screws, nuts, washers, and heatsinks)
 
-# Instructions
-Basic writen assembly guide
-
 ## Hardware guide
 * print out "hardware/gauntlet.stl"
 * print out "hardware/mesh-case.stl"
