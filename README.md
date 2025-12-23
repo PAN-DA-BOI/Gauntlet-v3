@@ -11,8 +11,10 @@ Version three of my gauntlet series, a compromise between me and my bf, so I don
 * 2X 18650 batteries
 * general hardware (screws, nuts, washers, and heatsinks)
 
-# instructions
+# Instructions
+Basic writen assembly guide
 
+## Hardware guide
 * print out "hardware/gauntlet.stl"
 * print out "hardware/mesh-case.stl"
 * print out "hardware/pi-case.stl"
@@ -20,6 +22,8 @@ Version three of my gauntlet series, a compromise between me and my bf, so I don
 * wire the screen
 * add the T-beam
 * add the batteries
+
+## Software guide
 * enable SPI on the pi using the command below
 ```
 sudo raspi-config
